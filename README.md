@@ -37,3 +37,21 @@ Goal:
 - Base condition
 - Recursive faith
 - Stack understanding
+
+# DAY 2 — Multiple Recursive Calls
+
+Topics:
+
+- Binary recursion tree
+- Exponential recursion
+- Recursive branching
+
+Questions:
+
+1. Climbing stairs
+2.Print all subsequence
+3.print all subsequence with sum k
+
+### 1. LeetCode 509 — climbing stairs
+### 2. LeetCode 1498 — Number of Subsequences That Satisfy the Given Sum Condition(Recursive solution-TLE && MLE)
+ 
