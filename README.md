@@ -54,4 +54,17 @@ Questions:
 
 ### 1. LeetCode 509 — climbing stairs
 ### 2. LeetCode 1498 — Number of Subsequences That Satisfy the Given Sum Condition(Recursive solution-TLE && MLE)
- 
+
+# DAY 3 —Recursion && Backtracking
+
+Questions
+1.Combination sum I
+2.Combination Sum II
+3.Palindrome Partitioning
+
+### 1. LeetCode 39 — Combination Sum  
+
+### 2. LeetCode 40 — Combination Sum II
+
+### 3. Leetcode 131-Palindrome Partitionings
+
