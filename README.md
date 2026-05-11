@@ -68,3 +68,14 @@ Questions
 
 ### 3. Leetcode 131-Palindrome Partitionings
 
+# DAY 3 —Recursion && Backtracking
+
+Questions
+1.Subset sum 
+2.Subset Sum II
+3.Number of ways to tile 2Xn floor
+
+### 1. LeetCode 78 — Subset  
+
+### 2. LeetCode 90 — Subset Sum II
+
