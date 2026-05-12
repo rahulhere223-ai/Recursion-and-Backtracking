@@ -79,3 +79,12 @@ Questions
 
 ### 2. LeetCode 90 — Subset Sum II
 
+# DAY 3 —Recursion && Backtracking
+
+Questions
+1.N Queens 
+2.N Queens II
+
+### 1. LeetCode 51 — N Queens 
+
+### 2. LeetCode 52 — N QueensII
