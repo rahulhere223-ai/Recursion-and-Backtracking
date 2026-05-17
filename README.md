@@ -68,7 +68,7 @@ Questions
 
 ### 3. Leetcode 131-Palindrome Partitionings
 
-# DAY 3 —Recursion && Backtracking
+# DAY 4 —Recursion && Backtracking
 
 Questions
 1.Subset sum 
@@ -79,7 +79,7 @@ Questions
 
 ### 2. LeetCode 90 — Subset Sum II
 
-# DAY 3 —Recursion && Backtracking
+# DAY 5 —Recursion && Backtracking
 
 Questions
 1.N Queens 
@@ -88,3 +88,14 @@ Questions
 ### 1. LeetCode 51 — N Queens 
 
 ### 2. LeetCode 52 — N QueensII
+
+# DAY 6 —Recursion && Backtracking
+
+Questions
+1.Grid ways
+2.Valid Soduku
+3.Jump Game III
+
+### 1. LeetCode 36 — Valid Soduku 
+
+### 2. LeetCode 1306 — Jump Game III
