@@ -99,3 +99,16 @@ Questions
 ### 1. LeetCode 36 — Valid Soduku 
 
 ### 2. LeetCode 1306 — Jump Game III
+
+# DAY 7 —Recursion && Backtracking
+
+Questions
+1.Permutation
+2.Permutations II
+3.Permuatation sequence
+
+### 1. LeetCode 46 — Permutation 
+
+### 1. LeetCode 47 — Permutation II 
+
+### 2. LeetCode 60 — Permutation Sequence
